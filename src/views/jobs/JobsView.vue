@@ -39,11 +39,4 @@ export default {
 .job a {
     text-decoration: none;
 }
-
-button css button {
-    margin: 0 10px;
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
-}
 </style>
